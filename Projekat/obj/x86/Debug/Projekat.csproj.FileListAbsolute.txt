@@ -1,0 +1,54 @@
+C:\Users\braki\Desktop\Projekat\Projekat\Projekat\Projekat\bin\Debug\Projekat.exe
+C:\Users\braki\Desktop\Projekat\Projekat\Projekat\Projekat\bin\Debug\Projekat.pdb
+C:\Users\braki\Desktop\Projekat\Projekat\Projekat\Projekat\obj\x86\Debug\Projekat.csprojResolveAssemblyReference.cache
+C:\Users\braki\Desktop\Projekat\Projekat\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\braki\Desktop\Projekat\Projekat\Projekat\Projekat\obj\x86\Debug\Projekat.csproj.GenerateResource.Cache
+C:\Users\braki\Desktop\Projekat\Projekat\Projekat\Projekat\obj\x86\Debug\Projekat.exe
+C:\Users\braki\Desktop\Projekat\Projekat\Projekat\Projekat\obj\x86\Debug\Projekat.pdb
+C:\Users\braki\Desktop\Projekat\Projekat\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Login_forma.resources
+C:\Users\braki\Desktop\Projekat\Projekat\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Rad_sa_kupcima.resources
+C:\Users\braki\Desktop\Projekat\Projekat\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Kreiranje_narudzbe.resources
+C:\Users\braki\Desktop\Projekat\Projekat\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Brisanje_narudzbe.resources
+C:\Users\braki\Desktop\Projekat\Projekat\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Dodavanje_artikala.resources
+C:\Users\Lamija\Downloads\Lamija\Lamija\Projekat\Projekat\obj\x86\Debug\Projekat.exe
+C:\Users\Lamija\Downloads\Lamija\Lamija\Projekat\Projekat\obj\x86\Debug\Projekat.pdb
+C:\Users\Lamija\Downloads\Lamija\Lamija\Projekat\Projekat\bin\Debug\Projekat.exe
+C:\Users\Lamija\Downloads\Lamija\Lamija\Projekat\Projekat\bin\Debug\Projekat.pdb
+C:\Users\Lamija\Downloads\Lamija\Lamija\Projekat\Projekat\obj\x86\Debug\Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Lamija\Downloads\Lamija\Lamija\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Brisanje_narudzbe.resources
+C:\Users\Lamija\Downloads\Lamija\Lamija\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Dodavanje_artikala.resources
+C:\Users\Lamija\Downloads\Lamija\Lamija\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Login_forma.resources
+C:\Users\Lamija\Downloads\Lamija\Lamija\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Rad_sa_kupcima.resources
+C:\Users\Lamija\Downloads\Lamija\Lamija\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Kreiranje_narudzbe.resources
+C:\Users\Lamija\Downloads\Lamija\Lamija\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Lamija\Downloads\Lamija\Lamija\Projekat\Projekat\obj\x86\Debug\Projekat.csproj.GenerateResource.Cache
+C:\Users\Lamija\Downloads\Lamija\Lamija\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Lamija\Downloads\Lamija\Lamija\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\braki\Desktop\PROJEKT\Jasenko (1)\Jasenko\Projekat\Projekat\obj\x86\Debug\Projekat.exe
+C:\Users\braki\Desktop\PROJEKT\Jasenko (1)\Jasenko\Projekat\Projekat\obj\x86\Debug\Projekat.pdb
+C:\Users\braki\Desktop\PROJEKT\Jasenko (1)\Jasenko\Projekat\Projekat\obj\x86\Debug\Projekat.csprojResolveAssemblyReference.cache
+C:\Users\braki\Desktop\PROJEKT\Jasenko (1)\Jasenko\Projekat\Projekat\bin\Debug\Projekat.exe
+C:\Users\braki\Desktop\PROJEKT\Jasenko (1)\Jasenko\Projekat\Projekat\bin\Debug\Projekat.pdb
+C:\Users\braki\Desktop\PROJEKT\Jasenko (1)\Jasenko\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Brisanje_narudzbe.resources
+C:\Users\braki\Desktop\PROJEKT\Jasenko (1)\Jasenko\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Dodavanje_artikala.resources
+C:\Users\braki\Desktop\PROJEKT\Jasenko (1)\Jasenko\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\braki\Desktop\PROJEKT\Jasenko (1)\Jasenko\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\braki\Desktop\PROJEKT\Jasenko (1)\Jasenko\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Login_forma.resources
+C:\Users\braki\Desktop\PROJEKT\Jasenko (1)\Jasenko\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Rad_sa_kupcima.resources
+C:\Users\braki\Desktop\PROJEKT\Jasenko (1)\Jasenko\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Kreiranje_narudzbe.resources
+C:\Users\braki\Desktop\PROJEKT\Jasenko (1)\Jasenko\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\braki\Desktop\PROJEKT\Jasenko (1)\Jasenko\Projekat\Projekat\obj\x86\Debug\Projekat.csproj.GenerateResource.Cache
+C:\Users\Lamija\Pictures\Projekat\Projekat\obj\x86\Debug\Projekat.exe
+C:\Users\Lamija\Pictures\Projekat\Projekat\obj\x86\Debug\Projekat.pdb
+C:\Users\Lamija\Pictures\Projekat\Projekat\obj\x86\Debug\Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Lamija\Pictures\Projekat\Projekat\bin\Debug\Projekat.exe
+C:\Users\Lamija\Pictures\Projekat\Projekat\bin\Debug\Projekat.pdb
+C:\Users\Lamija\Pictures\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Brisanje_narudzbe.resources
+C:\Users\Lamija\Pictures\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Dodavanje_artikala.resources
+C:\Users\Lamija\Pictures\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Lamija\Pictures\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Lamija\Pictures\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Login_forma.resources
+C:\Users\Lamija\Pictures\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Rad_sa_kupcima.resources
+C:\Users\Lamija\Pictures\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Kreiranje_narudzbe.resources
+C:\Users\Lamija\Pictures\Projekat\Projekat\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Lamija\Pictures\Projekat\Projekat\obj\x86\Debug\Projekat.csproj.GenerateResource.Cache
